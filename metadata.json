@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "Forensic message and smishing analyzer to verify suspicious SMS, emails, and chat messages before tapping links or sending money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
